@@ -61,7 +61,7 @@
             "open_issues": 8,
             "owner": "milisp",
             "repo": "mcp-linker",
-            "stars": 325,
+            "stars": 326,
             "topics": [
               "ai",
               "awesome",
@@ -104,7 +104,7 @@
             "open_issues": 100,
             "owner": "modelcontextprotocol",
             "repo": "mcpb",
-            "stars": 2112,
+            "stars": 2113,
             "topics": []
           },
           "first_seen": "2026-08-29T00:13:14.556Z"
@@ -125,7 +125,7 @@
             "open_issues": 100,
             "owner": "modelcontextprotocol",
             "repo": "mcpb",
-            "stars": 2112,
+            "stars": 2113,
             "topics": []
           },
           "first_seen": "2026-08-29T00:13:14.556Z"
@@ -150,11 +150,11 @@
                 "id": 973788136,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-17T14:26:43Z",
-                "open_issues": 202,
+                "last_commit": "2026-09-17T21:32:40Z",
+                "open_issues": 201,
                 "owner": "taylorwilsdon",
                 "repo": "google_workspace_mcp",
-                "stars": 3179,
+                "stars": 3187,
                 "topics": [
                   "ai",
                   "chatgpt",
@@ -192,11 +192,11 @@
                 "id": 996813130,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-17T13:19:09Z",
+                "last_commit": "2026-09-18T12:08:46Z",
                 "open_issues": 5,
                 "owner": "bgauryy",
                 "repo": "octocode",
-                "stars": 938,
+                "stars": 940,
                 "topics": [
                   "agent",
                   "ai",
@@ -242,10 +242,10 @@
                 "language": "TypeScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-03T01:42:26Z",
-                "open_issues": 543,
+                "open_issues": 546,
                 "owner": "modelcontextprotocol",
                 "repo": "servers",
-                "stars": 90418,
+                "stars": 90448,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:13:14.556Z"
@@ -263,10 +263,10 @@
                 "language": "TypeScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-03T01:42:26Z",
-                "open_issues": 543,
+                "open_issues": 546,
                 "owner": "modelcontextprotocol",
                 "repo": "servers",
-                "stars": 90418,
+                "stars": 90448,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:13:14.556Z"
@@ -284,10 +284,10 @@
                 "language": "TypeScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-03T01:42:26Z",
-                "open_issues": 543,
+                "open_issues": 546,
                 "owner": "modelcontextprotocol",
                 "repo": "servers",
-                "stars": 90418,
+                "stars": 90448,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:13:14.556Z"
@@ -305,10 +305,10 @@
                 "language": "TypeScript",
                 "license": "ISC",
                 "last_commit": "2026-09-09T20:38:22Z",
-                "open_issues": 4,
+                "open_issues": 5,
                 "owner": "21st-dev",
                 "repo": "magic-mcp",
-                "stars": 5881,
+                "stars": 5888,
                 "topics": [
                   "21st",
                   "claude",
@@ -338,7 +338,7 @@
                 "open_issues": 34,
                 "owner": "lingodotdev",
                 "repo": "lingo.dev",
-                "stars": 5402,
+                "stars": 5405,
                 "topics": [
                   "i18n",
                   "javascript",
@@ -362,10 +362,10 @@
                 "language": "TypeScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-01T14:26:32Z",
-                "open_issues": 74,
+                "open_issues": 75,
                 "owner": "cloudflare",
                 "repo": "mcp-server-cloudflare",
-                "stars": 4205,
+                "stars": 4209,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:13:14.556Z"
@@ -386,7 +386,7 @@
                 "open_issues": 100,
                 "owner": "modelcontextprotocol",
                 "repo": "mcpb",
-                "stars": 2112,
+                "stars": 2113,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:13:14.556Z"
@@ -403,11 +403,11 @@
                 "id": 930678258,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-17T17:56:40Z",
-                "open_issues": 113,
+                "last_commit": "2026-09-18T13:36:43Z",
+                "open_issues": 115,
                 "owner": "containers",
                 "repo": "kubernetes-mcp-server",
-                "stars": 2104,
+                "stars": 2108,
                 "topics": [
                   "containers",
                   "context",
@@ -459,7 +459,7 @@
                 "open_issues": 10,
                 "owner": "Flux159",
                 "repo": "mcp-server-kubernetes",
-                "stars": 1589,
+                "stars": 1590,
                 "topics": [
                   "infrastructure",
                   "kubernetes",
@@ -531,10 +531,10 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-08-07T06:46:09Z",
-                "open_issues": 29,
+                "open_issues": 31,
                 "owner": "ckreiling",
                 "repo": "mcp-server-docker",
-                "stars": 743,
+                "stars": 744,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:13:14.556Z"
@@ -600,7 +600,7 @@
                 "open_issues": 9,
                 "owner": "bigcodegen",
                 "repo": "mcp-neovim-server",
-                "stars": 320,
+                "stars": 321,
                 "topics": [
                   "anthropic",
                   "claude",
@@ -755,8 +755,8 @@
                 "id": 1135473716,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-17T18:32:38Z",
-                "open_issues": 17,
+                "last_commit": "2026-09-18T16:02:37Z",
+                "open_issues": 13,
                 "owner": "kubestellar",
                 "repo": "console",
                 "stars": 137,
@@ -912,8 +912,8 @@
                 "id": 1126625946,
                 "language": "Rust",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-14T07:17:51Z",
-                "open_issues": 134,
+                "last_commit": "2026-09-18T18:33:25Z",
+                "open_issues": 140,
                 "owner": "supernovae-st",
                 "repo": "nika",
                 "stars": 82,
@@ -1253,10 +1253,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-09-17T13:21:20Z",
-                "open_issues": 248,
+                "open_issues": 251,
                 "owner": "wonderwhy-er",
                 "repo": "DesktopCommanderMCP",
-                "stars": 9621,
+                "stars": 9640,
                 "topics": [
                   "agent",
                   "ai",
@@ -1330,7 +1330,7 @@
                 "open_issues": 100,
                 "owner": "modelcontextprotocol",
                 "repo": "mcpb",
-                "stars": 2112,
+                "stars": 2113,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:13:14.556Z"
@@ -1355,10 +1355,10 @@
                 "language": "TypeScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-03T01:42:26Z",
-                "open_issues": 543,
+                "open_issues": 546,
                 "owner": "modelcontextprotocol",
                 "repo": "servers",
-                "stars": 90418,
+                "stars": 90448,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:13:14.556Z"
@@ -1376,10 +1376,10 @@
                 "language": "TypeScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-03T01:42:26Z",
-                "open_issues": 543,
+                "open_issues": 546,
                 "owner": "modelcontextprotocol",
                 "repo": "servers",
-                "stars": 90418,
+                "stars": 90448,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:13:14.556Z"
@@ -1428,7 +1428,7 @@
                 "open_issues": 24,
                 "owner": "mamertofabian",
                 "repo": "mcp-everything-search",
-                "stars": 360,
+                "stars": 362,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:13:14.556Z"
@@ -1676,10 +1676,10 @@
                 "language": "TypeScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-03T01:42:26Z",
-                "open_issues": 543,
+                "open_issues": 546,
                 "owner": "modelcontextprotocol",
                 "repo": "servers",
-                "stars": 90418,
+                "stars": 90448,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:13:14.556Z"
@@ -1697,10 +1697,10 @@
                 "language": "TypeScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-03T01:42:26Z",
-                "open_issues": 543,
+                "open_issues": 546,
                 "owner": "modelcontextprotocol",
                 "repo": "servers",
-                "stars": 90418,
+                "stars": 90448,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:13:14.556Z"
@@ -1718,10 +1718,10 @@
                 "language": "TypeScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-03T01:42:26Z",
-                "open_issues": 543,
+                "open_issues": 546,
                 "owner": "modelcontextprotocol",
                 "repo": "servers",
-                "stars": 90418,
+                "stars": 90448,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:13:14.556Z"
@@ -1738,11 +1738,11 @@
                 "id": 952688112,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-17T17:29:54Z",
-                "open_issues": 3,
+                "last_commit": "2026-09-18T17:21:37Z",
+                "open_issues": 4,
                 "owner": "microsoft",
                 "repo": "playwright-mcp",
-                "stars": 37205,
+                "stars": 37249,
                 "topics": [
                   "mcp",
                   "playwright"
@@ -1762,11 +1762,11 @@
                 "id": 911256711,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-17T19:19:05Z",
-                "open_issues": 167,
+                "last_commit": "2026-09-18T13:07:58Z",
+                "open_issues": 172,
                 "owner": "apify",
                 "repo": "apify-mcp-server",
-                "stars": 7523,
+                "stars": 7638,
                 "topics": [
                   "agents",
                   "ai",
@@ -1788,11 +1788,11 @@
                 "id": 899407931,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-17T18:03:18Z",
-                "open_issues": 137,
+                "last_commit": "2026-09-18T18:42:16Z",
+                "open_issues": 138,
                 "owner": "firecrawl",
                 "repo": "firecrawl-mcp-server",
-                "stars": 7477,
+                "stars": 7483,
                 "topics": [
                   "batch-processing",
                   "claude",
@@ -1828,7 +1828,7 @@
                 "open_issues": 37,
                 "owner": "executeautomation",
                 "repo": "mcp-playwright",
-                "stars": 5646,
+                "stars": 5648,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:13:14.556Z"
@@ -1849,7 +1849,7 @@
                 "open_issues": 46,
                 "owner": "exa-labs",
                 "repo": "exa-mcp-server",
-                "stars": 5015,
+                "stars": 5027,
                 "topics": [
                   "code-search",
                   "codesearch",
@@ -1900,7 +1900,7 @@
                 "open_issues": 56,
                 "owner": "tavily-ai",
                 "repo": "tavily-mcp",
-                "stars": 2387,
+                "stars": 2392,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:13:14.556Z"
@@ -1917,11 +1917,11 @@
                 "id": 907172461,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-17T02:19:45Z",
-                "open_issues": 4,
+                "last_commit": "2026-09-18T01:44:30Z",
+                "open_issues": 5,
                 "owner": "ihor-sokoliuk",
                 "repo": "mcp-searxng",
-                "stars": 1244,
+                "stars": 1246,
                 "topics": [
                   "ai",
                   "claude",
@@ -1976,7 +1976,7 @@
                 "open_issues": 10,
                 "owner": "hyperbrowserai",
                 "repo": "mcp",
-                "stars": 788,
+                "stars": 789,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:13:14.556Z"
@@ -1997,7 +1997,7 @@
                 "open_issues": 35,
                 "owner": "openbnb-org",
                 "repo": "mcp-server-airbnb",
-                "stars": 537,
+                "stars": 538,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:13:14.556Z"
@@ -2018,7 +2018,7 @@
                 "open_issues": 0,
                 "owner": "apify",
                 "repo": "mcp-server-rag-web-browser",
-                "stars": 208,
+                "stars": 207,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:13:14.556Z"
@@ -2035,7 +2035,7 @@
                 "id": 1168120544,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-04T03:32:42Z",
+                "last_commit": "2026-09-18T15:32:10Z",
                 "open_issues": 3,
                 "owner": "Xquik-dev",
                 "repo": "x-twitter-scraper",
@@ -2574,10 +2574,10 @@
                 "language": "TypeScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-03T01:42:26Z",
-                "open_issues": 543,
+                "open_issues": 546,
                 "owner": "modelcontextprotocol",
                 "repo": "servers",
-                "stars": 90418,
+                "stars": 90448,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:13:14.556Z"
@@ -2598,7 +2598,7 @@
                 "open_issues": 70,
                 "owner": "GongRzhe",
                 "repo": "Gmail-MCP-Server",
-                "stars": 1164,
+                "stars": 1165,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:13:14.556Z"
@@ -2738,7 +2738,7 @@
                 "open_issues": 2,
                 "owner": "teddyzxcv",
                 "repo": "ntfy-mcp",
-                "stars": 44,
+                "stars": 45,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:13:14.556Z"
@@ -2831,10 +2831,10 @@
                 "language": "TypeScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-03T01:42:26Z",
-                "open_issues": 543,
+                "open_issues": 546,
                 "owner": "modelcontextprotocol",
                 "repo": "servers",
-                "stars": 90418,
+                "stars": 90448,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:13:14.556Z"
@@ -2851,11 +2851,11 @@
                 "id": 945530209,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-16T07:53:21Z",
+                "last_commit": "2026-09-18T07:45:29Z",
                 "open_issues": 2,
                 "owner": "bytebase",
                 "repo": "dbhub",
-                "stars": 3529,
+                "stars": 3536,
                 "topics": [
                   "agents",
                   "ai",
@@ -2926,7 +2926,7 @@
                 "open_issues": 3,
                 "owner": "designcomputer",
                 "repo": "mysql_mcp_server",
-                "stars": 1391,
+                "stars": 1394,
                 "topics": [
                   "ai",
                   "claude",
@@ -3038,7 +3038,7 @@
                 "open_issues": 9,
                 "owner": "ClickHouse",
                 "repo": "mcp-clickhouse",
-                "stars": 875,
+                "stars": 876,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:13:14.556Z"
@@ -3056,7 +3056,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2025-09-17T20:20:13Z",
-                "open_issues": 32,
+                "open_issues": 33,
                 "owner": "chroma-core",
                 "repo": "chroma-mcp",
                 "stars": 595,
@@ -3391,7 +3391,7 @@
                 "open_issues": 6,
                 "owner": "vectorize-io",
                 "repo": "vectorize-mcp-server",
-                "stars": 111,
+                "stars": 110,
                 "topics": [
                   "mcp",
                   "mcp-server"
@@ -3655,7 +3655,7 @@
                 "id": 947751392,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-15T10:51:10Z",
+                "last_commit": "2026-09-18T09:07:53Z",
                 "open_issues": 7,
                 "owner": "Aiven-Open",
                 "repo": "mcp-aiven",
@@ -3822,7 +3822,7 @@
                 "open_issues": 18,
                 "owner": "jjsantos01",
                 "repo": "qgis_mcp",
-                "stars": 1096,
+                "stars": 1097,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:13:14.556Z"
@@ -3864,7 +3864,7 @@
                 "open_issues": 6,
                 "owner": "kagisearch",
                 "repo": "kagimcp",
-                "stars": 522,
+                "stars": 523,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:13:14.556Z"
@@ -3978,7 +3978,7 @@
                 "id": 915789942,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-17T13:43:52Z",
+                "last_commit": "2026-09-18T17:01:40Z",
                 "open_issues": 38,
                 "owner": "keboola",
                 "repo": "mcp-server",
@@ -4094,7 +4094,7 @@
                 "open_issues": 3,
                 "owner": "lenwood",
                 "repo": "cfbd-mcp-server",
-                "stars": 27,
+                "stars": 28,
                 "topics": [
                   "api-client",
                   "claude-desktop",
@@ -4173,10 +4173,10 @@
                 "language": "TypeScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-03T01:42:26Z",
-                "open_issues": 543,
+                "open_issues": 546,
                 "owner": "modelcontextprotocol",
                 "repo": "servers",
-                "stars": 90418,
+                "stars": 90448,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:13:14.556Z"
@@ -4401,10 +4401,10 @@
                 "language": "TypeScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-03T01:42:26Z",
-                "open_issues": 543,
+                "open_issues": 546,
                 "owner": "modelcontextprotocol",
                 "repo": "servers",
-                "stars": 90418,
+                "stars": 90448,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:13:14.556Z"
@@ -4425,7 +4425,7 @@
                 "open_issues": 64,
                 "owner": "sparfenyuk",
                 "repo": "mcp-proxy",
-                "stars": 2757,
+                "stars": 2759,
                 "topics": [
                   "mcp",
                   "mcp-server",
@@ -4473,7 +4473,7 @@
                 "open_issues": 2,
                 "owner": "ASCIT31",
                 "repo": "Dark-Moon",
-                "stars": 946,
+                "stars": 948,
                 "topics": [
                   "active-directory",
                   "ai-agents",
@@ -4538,11 +4538,11 @@
                 "id": 1350419329,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-17T14:03:58Z",
-                "open_issues": 8,
+                "last_commit": "2026-09-18T10:45:24Z",
+                "open_issues": 9,
                 "owner": "Continuum-AI-Corp",
                 "repo": "OrcaReplay",
-                "stars": 253,
+                "stars": 255,
                 "topics": [
                   "agent-debugging",
                   "agent-tracing",
@@ -4714,7 +4714,7 @@
                 "id": 1212338943,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-15T11:10:34Z",
+                "last_commit": "2026-09-17T20:00:50Z",
                 "open_issues": 14,
                 "owner": "BuyWhere",
                 "repo": "buywhere-mcp",
@@ -4781,10 +4781,10 @@
                 "language": "TypeScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-03T01:42:26Z",
-                "open_issues": 543,
+                "open_issues": 546,
                 "owner": "modelcontextprotocol",
                 "repo": "servers",
-                "stars": 90418,
+                "stars": 90448,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:13:14.556Z"
@@ -4802,10 +4802,10 @@
                 "language": "TypeScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-03T01:42:26Z",
-                "open_issues": 543,
+                "open_issues": 546,
                 "owner": "modelcontextprotocol",
                 "repo": "servers",
-                "stars": 90418,
+                "stars": 90448,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:13:14.556Z"
@@ -4822,11 +4822,11 @@
                 "id": 817326197,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-17T19:19:47Z",
-                "open_issues": 52,
+                "last_commit": "2026-09-18T18:35:58Z",
+                "open_issues": 30,
                 "owner": "screenpipe",
                 "repo": "screenpipe",
-                "stars": 21609,
+                "stars": 21620,
                 "topics": [
                   "agents",
                   "agi",
@@ -4865,10 +4865,10 @@
                 "language": "Python",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-09-16T03:44:02Z",
-                "open_issues": 55,
+                "open_issues": 58,
                 "owner": "basicmachines-co",
                 "repo": "basic-memory",
-                "stars": 3986,
+                "stars": 3988,
                 "topics": [
                   "ai",
                   "claude",
@@ -4905,7 +4905,7 @@
                 "open_issues": 15,
                 "owner": "Minima-AI-Inc",
                 "repo": "minima",
-                "stars": 1048,
+                "stars": 1049,
                 "topics": [
                   "ai",
                   "claude",
@@ -5304,7 +5304,7 @@
                 "open_issues": 2,
                 "owner": "skydeckai",
                 "repo": "mcp-server-rememberizer",
-                "stars": 35,
+                "stars": 36,
                 "topics": [
                   "mcp",
                   "rememberizer",
@@ -5422,10 +5422,10 @@
                 "language": "TypeScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-03T01:42:26Z",
-                "open_issues": 543,
+                "open_issues": 546,
                 "owner": "modelcontextprotocol",
                 "repo": "servers",
-                "stars": 90418,
+                "stars": 90448,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:13:14.556Z"
@@ -5443,10 +5443,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-16T10:37:26Z",
-                "open_issues": 33,
+                "open_issues": 35,
                 "owner": "ahujasid",
                 "repo": "mcp-for-blender",
-                "stars": 28880,
+                "stars": 28953,
                 "topics": [
                   "3d-modeling",
                   "ai",
@@ -5479,7 +5479,7 @@
                 "open_issues": 72,
                 "owner": "Coding-Solo",
                 "repo": "godot-mcp",
-                "stars": 5720,
+                "stars": 5730,
                 "topics": [
                   "ai",
                   "godot",
@@ -5535,7 +5535,7 @@
                 "open_issues": 7,
                 "owner": "CoderGamester",
                 "repo": "mcp-unity",
-                "stars": 1906,
+                "stars": 1908,
                 "topics": [
                   "claudecode",
                   "codex-cli",
@@ -5590,7 +5590,7 @@
                 "open_issues": 19,
                 "owner": "vivekVells",
                 "repo": "mcp-pandoc",
-                "stars": 580,
+                "stars": 581,
                 "topics": [
                   "pandoc",
                   "pandoc-markdown",
@@ -5939,10 +5939,10 @@
                 "language": "TypeScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-03T01:42:26Z",
-                "open_issues": 543,
+                "open_issues": 546,
                 "owner": "modelcontextprotocol",
                 "repo": "servers",
-                "stars": 90418,
+                "stars": 90448,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:13:14.556Z"
@@ -5959,11 +5959,11 @@
                 "id": 897809208,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-15T03:23:58Z",
-                "open_issues": 232,
+                "last_commit": "2026-09-17T20:59:46Z",
+                "open_issues": 235,
                 "owner": "sooperset",
                 "repo": "mcp-atlassian",
-                "stars": 5912,
+                "stars": 5917,
                 "topics": [
                   "atlassian",
                   "confluence",
@@ -5989,7 +5989,7 @@
                 "open_issues": 73,
                 "owner": "haris-musa",
                 "repo": "excel-mcp-server",
-                "stars": 4190,
+                "stars": 4192,
                 "topics": [
                   "ai",
                   "automation",
@@ -6021,7 +6021,7 @@
                 "open_issues": 11,
                 "owner": "nowork-studio",
                 "repo": "notfair-plugin",
-                "stars": 3812,
+                "stars": 3821,
                 "topics": [
                   "agents",
                   "claude-code-plugin",
@@ -6074,7 +6074,7 @@
                 "open_issues": 17,
                 "owner": "abhiz123",
                 "repo": "todoist-mcp-server",
-                "stars": 392,
+                "stars": 393,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:13:14.556Z"
@@ -6549,11 +6549,11 @@
                 "id": 931892749,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-16T16:34:01Z",
+                "last_commit": "2026-09-18T03:44:15Z",
                 "open_issues": 25,
                 "owner": "GLips",
                 "repo": "Figma-Context-MCP",
-                "stars": 15871,
+                "stars": 15879,
                 "topics": [
                   "ai",
                   "cursor",
@@ -6610,7 +6610,7 @@
                 "open_issues": 4,
                 "owner": "ChristianHinge",
                 "repo": "dicom-mcp",
-                "stars": 100,
+                "stars": 101,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:13:14.556Z"
@@ -6722,7 +6722,7 @@
                 "open_issues": 90,
                 "owner": "stripe",
                 "repo": "ai",
-                "stars": 1822,
+                "stars": 1824,
                 "topics": [
                   "ai",
                   "gemini-cli-extension",
@@ -6777,7 +6777,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-06-05T06:52:56Z",
-                "open_issues": 124,
+                "open_issues": 125,
                 "owner": "XeroAPI",
                 "repo": "xero-mcp-server",
                 "stars": 366,
@@ -6843,7 +6843,7 @@
                 "open_issues": 2,
                 "owner": "kukapay",
                 "repo": "cryptopanic-mcp-server",
-                "stars": 73,
+                "stars": 74,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:13:14.556Z"
@@ -7197,7 +7197,7 @@
                 "open_issues": 100,
                 "owner": "modelcontextprotocol",
                 "repo": "mcpb",
-                "stars": 2112,
+                "stars": 2113,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:13:14.556Z"
@@ -7212,7 +7212,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T19:22:43.875Z",
+    "last_updated": "2026-09-18T18:43:22.959Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Claude Desktop Extensions (dxt) (not only Claude) mcpb",
